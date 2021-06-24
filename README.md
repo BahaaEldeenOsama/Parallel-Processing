@@ -1,4 +1,4 @@
-# Parallel-Processing-Assignments
+# Parallel-Processing
 # All Commands you need to run c language with MPI and OpenMP program 
 
 ## ============ c compile and run ============
